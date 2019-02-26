@@ -27,9 +27,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "primjer_5.2.2.switch", "pri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.2.3.exceptio_primjer", "5.2.3.exceptio_primjer\5.2.3.exceptio_primjer.csproj", "{F452E0A6-FCB3-4519-9F1B-F4E60F7081EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{E2E95815-D555-4117-A7F4-24A6CAC154C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.2.3.Veliki_broj", "ConsoleApp2\5.2.3.Veliki_broj.csproj", "{E2E95815-D555-4117-A7F4-24A6CAC154C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{15C8E329-FC94-40E2-BF4D-9FF118BC94C0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.2.4.x_znamenkasti_broj", "ConsoleApp3\5.2.4.x_znamenkasti_broj.csproj", "{15C8E329-FC94-40E2-BF4D-9FF118BC94C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.2.5.U_intervalu", "ConsoleApp4\5.2.5.U_intervalu.csproj", "{6EFCDDFB-7016-4DCB-84C9-FF45CA36CB42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.2.6.Dobar_broj", "ConsoleApp5\5.2.6.Dobar_broj.csproj", "{546E10B6-2B7D-4FD7-9BAF-29E7BD572E1C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{15C8E329-FC94-40E2-BF4D-9FF118BC94C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15C8E329-FC94-40E2-BF4D-9FF118BC94C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15C8E329-FC94-40E2-BF4D-9FF118BC94C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EFCDDFB-7016-4DCB-84C9-FF45CA36CB42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EFCDDFB-7016-4DCB-84C9-FF45CA36CB42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EFCDDFB-7016-4DCB-84C9-FF45CA36CB42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EFCDDFB-7016-4DCB-84C9-FF45CA36CB42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{546E10B6-2B7D-4FD7-9BAF-29E7BD572E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{546E10B6-2B7D-4FD7-9BAF-29E7BD572E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{546E10B6-2B7D-4FD7-9BAF-29E7BD572E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{546E10B6-2B7D-4FD7-9BAF-29E7BD572E1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -94,6 +106,8 @@ Global
 		{1C42CD6A-A00C-47DC-A9CE-D95B5EEE825F} = {19D29F78-F7F0-4D00-8791-9EDF91AE03A6}
 		{F452E0A6-FCB3-4519-9F1B-F4E60F7081EB} = {19D29F78-F7F0-4D00-8791-9EDF91AE03A6}
 		{15C8E329-FC94-40E2-BF4D-9FF118BC94C0} = {19D29F78-F7F0-4D00-8791-9EDF91AE03A6}
+		{6EFCDDFB-7016-4DCB-84C9-FF45CA36CB42} = {19D29F78-F7F0-4D00-8791-9EDF91AE03A6}
+		{546E10B6-2B7D-4FD7-9BAF-29E7BD572E1C} = {19D29F78-F7F0-4D00-8791-9EDF91AE03A6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {75EC4551-BDDA-44DC-B093-1C3F4BA400C8}
