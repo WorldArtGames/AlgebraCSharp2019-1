@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.2.5.U_intervalu", "Consol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.2.6.Dobar_broj", "ConsoleApp5\5.2.6.Dobar_broj.csproj", "{546E10B6-2B7D-4FD7-9BAF-29E7BD572E1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.2.9_paran_neparan_djeljiv_sa_3", "5.2.9_paran_neparan_djeljiv_sa_3\5.2.9_paran_neparan_djeljiv_sa_3.csproj", "{CC10E716-0F75-42B0-A6CA-AC45B6F57758}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{546E10B6-2B7D-4FD7-9BAF-29E7BD572E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{546E10B6-2B7D-4FD7-9BAF-29E7BD572E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{546E10B6-2B7D-4FD7-9BAF-29E7BD572E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC10E716-0F75-42B0-A6CA-AC45B6F57758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC10E716-0F75-42B0-A6CA-AC45B6F57758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC10E716-0F75-42B0-A6CA-AC45B6F57758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC10E716-0F75-42B0-A6CA-AC45B6F57758}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -108,6 +114,7 @@ Global
 		{15C8E329-FC94-40E2-BF4D-9FF118BC94C0} = {19D29F78-F7F0-4D00-8791-9EDF91AE03A6}
 		{6EFCDDFB-7016-4DCB-84C9-FF45CA36CB42} = {19D29F78-F7F0-4D00-8791-9EDF91AE03A6}
 		{546E10B6-2B7D-4FD7-9BAF-29E7BD572E1C} = {19D29F78-F7F0-4D00-8791-9EDF91AE03A6}
+		{CC10E716-0F75-42B0-A6CA-AC45B6F57758} = {19D29F78-F7F0-4D00-8791-9EDF91AE03A6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {75EC4551-BDDA-44DC-B093-1C3F4BA400C8}
