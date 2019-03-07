@@ -55,6 +55,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.3.9.Zbirka_zadataka_djeli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.3.11.Zbirka_zadataka_Savršeni_brojevi", "5.3.11.Zbirka_zadataka_Savršeni_brojevi\5.3.11.Zbirka_zadataka_Savršeni_brojevi.csproj", "{AF5093D7-6840-418D-A9F2-462CCE2D09CC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6", "6", "{95B950EE-9E5E-48B8-B760-B7EFB7205EBD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7_Procedure_metode", "7_Procedure_metode", "{3BB85D8A-23B4-448C-BB92-7BD6377D22B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8_Objekti", "8_Objekti", "{CB4C54A0-4B11-4B03-B7D3-C37559636A2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.1.2.prirucnik", "8.1.2.prirucnik\8.1.2.prirucnik.csproj", "{A0E7037A-BE59-407D-BA7C-87F25F474AA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.1.3.Osoba_Enkapsulacija_Prirucnik", "8.1.3.Osoba_Enkapsulacija_Prirucnik\8.1.3.Osoba_Enkapsulacija_Prirucnik.csproj", "{EC257296-C1D8-475D-BD1B-73458C6D752D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -149,6 +159,14 @@ Global
 		{AF5093D7-6840-418D-A9F2-462CCE2D09CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF5093D7-6840-418D-A9F2-462CCE2D09CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF5093D7-6840-418D-A9F2-462CCE2D09CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0E7037A-BE59-407D-BA7C-87F25F474AA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E7037A-BE59-407D-BA7C-87F25F474AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E7037A-BE59-407D-BA7C-87F25F474AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E7037A-BE59-407D-BA7C-87F25F474AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC257296-C1D8-475D-BD1B-73458C6D752D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC257296-C1D8-475D-BD1B-73458C6D752D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC257296-C1D8-475D-BD1B-73458C6D752D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC257296-C1D8-475D-BD1B-73458C6D752D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -173,6 +191,8 @@ Global
 		{D0A24A8F-C5B3-4C12-8437-60A39AB2E84B} = {DB5334AF-D4C2-482A-9D06-DC291B90ADFA}
 		{AE2AA663-E4E8-42A4-BAA3-95FD40DDDCC0} = {DB5334AF-D4C2-482A-9D06-DC291B90ADFA}
 		{AF5093D7-6840-418D-A9F2-462CCE2D09CC} = {DB5334AF-D4C2-482A-9D06-DC291B90ADFA}
+		{A0E7037A-BE59-407D-BA7C-87F25F474AA1} = {CB4C54A0-4B11-4B03-B7D3-C37559636A2F}
+		{EC257296-C1D8-475D-BD1B-73458C6D752D} = {CB4C54A0-4B11-4B03-B7D3-C37559636A2F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {75EC4551-BDDA-44DC-B093-1C3F4BA400C8}
