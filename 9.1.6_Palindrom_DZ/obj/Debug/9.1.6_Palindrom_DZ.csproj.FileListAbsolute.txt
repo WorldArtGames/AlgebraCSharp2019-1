@@ -1,0 +1,7 @@
+C:\Users\ko\source\repos\Algebra\Homemade\VIM\9.1.6_Palindrom_DZ\obj\Debug\9.1.6_Palindrom_DZ.csprojAssemblyReference.cache
+C:\Users\ko\source\repos\Algebra\Homemade\VIM\9.1.6_Palindrom_DZ\obj\Debug\9.1.6_Palindrom_DZ.csproj.CoreCompileInputs.cache
+C:\Users\ko\source\repos\Algebra\Homemade\VIM\9.1.6_Palindrom_DZ\bin\Debug\9.1.6_Palindrom_DZ.exe.config
+C:\Users\ko\source\repos\Algebra\Homemade\VIM\9.1.6_Palindrom_DZ\bin\Debug\9.1.6_Palindrom_DZ.exe
+C:\Users\ko\source\repos\Algebra\Homemade\VIM\9.1.6_Palindrom_DZ\bin\Debug\9.1.6_Palindrom_DZ.pdb
+C:\Users\ko\source\repos\Algebra\Homemade\VIM\9.1.6_Palindrom_DZ\obj\Debug\9.1.6_Palindrom_DZ.exe
+C:\Users\ko\source\repos\Algebra\Homemade\VIM\9.1.6_Palindrom_DZ\obj\Debug\9.1.6_Palindrom_DZ.pdb
